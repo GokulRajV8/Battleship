@@ -7,7 +7,6 @@ import services.Refree;
 public class AppContainer {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int i = 1;
 		Player player1 = new Player();
 		Player player2 = new Player();
